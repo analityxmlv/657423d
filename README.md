@@ -1,4 +1,4 @@
-# ¿Se puede encpntrar una mejor manera de segmentar a los clientes?
+# ¿Se puede encontrar una mejor manera de segmentar a los clientes?
 
 Una compañia de dispositivos ortopedicos, que se dedica a la fabricación y la venta de los mismos, los distribuye de manera directa a los doctores que lo terapia física o rehabilitación.
 
