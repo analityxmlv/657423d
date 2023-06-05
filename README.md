@@ -1,6 +1,6 @@
 # ¿Se puede encontrar una mejor manera de segmentar a los clientes?
 
-Una compañia de dispositivos ortopedicos, que se dedica a la fabricación y la venta de los mismos, los distribuye de manera directa a los doctores que lo terapia física o rehabilitación.
+Una compañia de dispositivos ortopedicos, que se dedica a la fabricación y la venta de los mismos, los distribuye de manera directa a los doctores que practican terapia física o rehabilitación.
 
 Historicamente, las departamentos de ventas y servicio al cliente agrupan a los doctores por geografía. Sin embargo, la región no es un buen parametro para predecir el numero de compras que hará o que sus ayudantes necesitan.
 
